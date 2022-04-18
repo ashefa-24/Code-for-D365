@@ -1,0 +1,9 @@
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\bin\Debug\PluginempSalary.dll
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\bin\Debug\PluginempSalary.pdb
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\obj\Debug\PluginempSalary.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\obj\Debug\PluginempSalary.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\obj\Debug\PluginempSalary.csproj.CopyComplete
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\obj\Debug\PluginempSalary.dll
+C:\Users\adminvm.adminvm\source\repos\PluginempSalary\PluginempSalary\obj\Debug\PluginempSalary.pdb

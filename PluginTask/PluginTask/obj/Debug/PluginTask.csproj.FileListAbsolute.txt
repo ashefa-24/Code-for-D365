@@ -1,0 +1,9 @@
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\bin\Debug\PluginTask.dll
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\bin\Debug\PluginTask.pdb
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\obj\Debug\PluginTask.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\obj\Debug\PluginTask.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\obj\Debug\PluginTask.csproj.CopyComplete
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\obj\Debug\PluginTask.dll
+C:\Users\adminvm.adminvm\source\repos\PluginTask\PluginTask\obj\Debug\PluginTask.pdb
