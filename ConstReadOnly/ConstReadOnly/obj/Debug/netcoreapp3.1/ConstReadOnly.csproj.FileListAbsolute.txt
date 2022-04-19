@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.exe
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.deps.json
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.dll
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.pdb
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.dll
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.pdb
+C:\Users\adminvm.adminvm\source\repos\ConstReadOnly\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\adminvm.adminvm\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\bin\Debug\netcoreapp3.1\Abstraction_Program.exe
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\bin\Debug\netcoreapp3.1\Abstraction_Program.deps.json
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\bin\Debug\netcoreapp3.1\Abstraction_Program.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\bin\Debug\netcoreapp3.1\Abstraction_Program.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\bin\Debug\netcoreapp3.1\Abstraction_Program.dll
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\bin\Debug\netcoreapp3.1\Abstraction_Program.pdb
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\obj\Debug\netcoreapp3.1\Abstraction_Program.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\obj\Debug\netcoreapp3.1\Abstraction_Program.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\obj\Debug\netcoreapp3.1\Abstraction_Program.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\obj\Debug\netcoreapp3.1\Abstraction_Program.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\obj\Debug\netcoreapp3.1\Abstraction_Program.dll
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\obj\Debug\netcoreapp3.1\Abstraction_Program.pdb
+C:\Users\adminvm.adminvm\source\repos\Abstraction_Program\Abstraction_Program\obj\Debug\netcoreapp3.1\Abstraction_Program.genruntimeconfig.cache
